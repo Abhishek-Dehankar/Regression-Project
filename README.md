@@ -13,22 +13,22 @@ Aim of this project is to build a predictive model to forecast the daily sales f
 
 Approach to the Project :
 
-    Data Collection and Cleaning
+  * Data Collection and Cleaning
     
-    Impoting necessary libraries
+  * Impoting necessary libraries
     
-    Checking Duplicates and Null values
+  * Checking Duplicates and Null values
     
-    Data Cleaning
+  * Data Cleaning
     
-    Merging the datasets.
+  * Merging the datasets.
     
-    Exploratory Data Analysis - Univariate Analysis - Bivariate Analysis - Multivariate Analysis
+  * Exploratory Data Analysis - Univariate Analysis - Bivariate Analysis - Multivariate Analysis
     
-    Feature Engineering - Outlier Treatment - Feature Scaling - Encoding - Multicollinearity - Feature Selection
+  * Feature Engineering - Outlier Treatment - Feature Scaling - Encoding - Multicollinearity - Feature Selection
     
-    Model Building
+  * Model Building
     
-    Model Evaluation
+  * Model Evaluation
     
-    Conclusion
+  *  Conclusion
