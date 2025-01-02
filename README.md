@@ -33,4 +33,4 @@ Approach to the Project :
     
   *  Conclusion
     
-Its was Great Project to enhance my skills.
+It's was Great Project to enhance my skills.
